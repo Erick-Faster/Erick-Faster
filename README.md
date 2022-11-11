@@ -4,7 +4,7 @@
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Data scientist, materials engineer and bachelor in science and technology. Flirting with data engineering.
 - 📊 Plays with several kinds of messed up data, from extraction to deployment. 
-- 📝 Ping me about SQL, Python, RPA, AI and bionanotechnology stuff.
+- 📝 Ping me about SQL, Python, RPA, Azure, AI/ML, MLOps and bionanotechnology stuff.
 
 ### 📚 Content 📚
 - 📋 For my portfolio containing some of my projects, click **[HERE](https://erick-faster.github.io/portfolio/)**
