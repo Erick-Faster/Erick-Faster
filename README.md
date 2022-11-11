@@ -7,7 +7,7 @@
 - 📝 Ping me about SQL, Python, RPA, Azure, AI/ML, MLOps and bionanotechnology stuff.
 
 ### 📚 Content 📚
-- 📋 For my portfolio containing some of my projects, click **[HERE](https://erick-faster.github.io/portfolio/)**
+- 📋 For my <b>portfolio</b> containing some of my projects, click **[HERE](https://erick-faster.github.io/portfolio/)**
 - 📈 Sometimes I post something useful at my Linkedin **[HERE](https://www.linkedin.com/in/erickfasterra/)**
 
 ### 💡 Some Languages and Tools I Use 💡
