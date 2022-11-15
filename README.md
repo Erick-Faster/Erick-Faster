@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">A mad data scientist from Brazil</h3>
+<h3 align="center">A ~~mad~~ data scientist from Brazil</h3>
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Data scientist, materials engineer and bachelor in science and technology. Flirting with data engineering.
